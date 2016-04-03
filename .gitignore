@@ -20,9 +20,11 @@
 # .idea/dynamic.xml
 # .idea/uiDesigner.xml
 
+/typings
 # Gradle:
 # .idea/gradle.xml
 # .idea/libraries
+/node_modules
 
 # Mongo Explorer plugin:
 # .idea/mongoSettings.xml
